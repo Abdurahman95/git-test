@@ -4,3 +4,7 @@ color: #474BD4 ;
 h1{
     font-size: 60px;
 }
+h.w{
+    font-family:  Courier;
+    font-style: italic;
+}
